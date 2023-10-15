@@ -14,6 +14,7 @@ public class selectDelivery extends TestBase {
         startpage.openStartPage();
         startpage.selectDelivery("Kammakargatan 50");
 
+        startpage.assertTimeButton();
     }
 
 

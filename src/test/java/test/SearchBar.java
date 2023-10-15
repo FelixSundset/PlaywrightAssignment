@@ -14,6 +14,8 @@ public class SearchBar extends TestBase {
         startpage.openStartPage();
         startpage.searchFor("ostbågar");
 
+        startpage.assertionSearchbar();
+
     }
 
 }

@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b45c14ef-7be7-408e-a009-a4fa25263fde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/StartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/StartPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/ErbjudandenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/ErbjudandenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/SearchBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/SearchBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/selectDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/selectDelivery.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,29 +29,51 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2WG1OeTBkuYdfbag37u7HdL5wv8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.externalTools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalTools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="test" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.selectDelivery.selectDeliveryTest">
+  <component name="RunManager" selected="JUnit.ScrollBarTest.ScrollBarTest">
+    <configuration name="BooztProductTest.ProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inlamning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.BooztProductTest" />
+      <option name="METHOD_NAME" value="ProductTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ErbjudandenTest.erbjudandenKlick" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inlamning" />
       <extension name="coverage">
@@ -70,7 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchBar.searchbarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProgressBartTest.ProgressBarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inlamning" />
       <extension name="coverage">
         <pattern>
@@ -79,14 +99,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.SearchBar" />
-      <option name="METHOD_NAME" value="searchbarTest" />
+      <option name="MAIN_CLASS_NAME" value="test.ProgressBartTest" />
+      <option name="METHOD_NAME" value="ProgressBarTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="selectDelivery.selectDeliveryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ScrollBarTest.ScrollBarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inlamning" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +115,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.selectDelivery" />
-      <option name="METHOD_NAME" value="selectDeliveryTest" />
+      <option name="MAIN_CLASS_NAME" value="test.ScrollBarTest" />
+      <option name="METHOD_NAME" value="ScrollBarTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextInputTest.TextInputTextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inlamning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TextInputTest" />
+      <option name="METHOD_NAME" value="TextInputTextTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,8 +140,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.selectDelivery.selectDeliveryTest" />
-        <item itemvalue="JUnit.SearchBar.searchbarTest" />
+        <item itemvalue="JUnit.ScrollBarTest.ScrollBarTest" />
+        <item itemvalue="JUnit.BooztProductTest.ProductTest" />
+        <item itemvalue="JUnit.TextInputTest.TextInputTextTest" />
+        <item itemvalue="JUnit.ProgressBartTest.ProgressBarTest" />
         <item itemvalue="JUnit.ErbjudandenTest.erbjudandenKlick" />
       </list>
     </recent_temporary>
@@ -131,5 +169,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/test/ErbjudandenTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
