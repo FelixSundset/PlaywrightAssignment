@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b45c14ef-7be7-408e-a009-a4fa25263fde" name="Changes" comment="">
+    <list default="true" id="b45c14ef-7be7-408e-a009-a4fa25263fde" name="Changes" comment="Second Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/StartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/StartPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/ErbjudandenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/ErbjudandenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/SearchBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/SearchBar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/selectDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/selectDelivery.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -57,7 +55,7 @@
       <recent name="test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ScrollBarTest.ScrollBarTest">
+  <component name="RunManager" selected="JUnit.OverlappedElementTest.fillInOverlapped">
     <configuration name="BooztProductTest.ProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inlamning" />
       <extension name="coverage">
@@ -74,7 +72,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErbjudandenTest.erbjudandenKlick" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ClientSideDelayTest.DelayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inlamning" />
       <extension name="coverage">
         <pattern>
@@ -83,14 +81,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.ErbjudandenTest" />
-      <option name="METHOD_NAME" value="erbjudandenKlick" />
+      <option name="MAIN_CLASS_NAME" value="test.ClientSideDelayTest" />
+      <option name="METHOD_NAME" value="DelayTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgressBartTest.ProgressBarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OverlappedElementTest.fillInOverlapped" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="inlamning" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +97,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.ProgressBartTest" />
-      <option name="METHOD_NAME" value="ProgressBarTest" />
+      <option name="MAIN_CLASS_NAME" value="test.OverlappedElementTest" />
+      <option name="METHOD_NAME" value="fillInOverlapped" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleAppTest.LoginSampleApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inlamning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.SampleAppTest" />
+      <option name="METHOD_NAME" value="LoginSampleApp" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,29 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextInputTest.TextInputTextTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="inlamning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.TextInputTest" />
-      <option name="METHOD_NAME" value="TextInputTextTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OverlappedElementTest.fillInOverlapped" />
+        <item itemvalue="JUnit.SampleAppTest.LoginSampleApp" />
+        <item itemvalue="JUnit.ClientSideDelayTest.DelayTest" />
         <item itemvalue="JUnit.ScrollBarTest.ScrollBarTest" />
         <item itemvalue="JUnit.BooztProductTest.ProductTest" />
-        <item itemvalue="JUnit.TextInputTest.TextInputTextTest" />
-        <item itemvalue="JUnit.ProgressBartTest.ProgressBarTest" />
-        <item itemvalue="JUnit.ErbjudandenTest.erbjudandenKlick" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +155,13 @@
       <option name="presentableId" value="Default" />
       <updated>1696344073981</updated>
     </task>
+    <task id="LOCAL−00001" summary="Second Commit">
+      <created>1697385298947</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1697385298947</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +174,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
